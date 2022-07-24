@@ -1,0 +1,7 @@
+The objective of the game is to defend yourself and your house from the zombies.
+If a zombie reaches you, you die and the game is over. If 15 zombies reach your
+house, the game is over. As you progress through the game, the game becomes more
+difficult and the zombies run faster. Some zombies are able to dodge bullets
+and some zombies require more than 1 bullet to die. To learn the controls or
+to customize them, check the 'Controls' section in the 'Settings' menu.
+The cheat button is 'C', the pause button is 'P' and the boss key is 'Esc'.

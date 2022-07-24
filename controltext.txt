@@ -1,0 +1,32 @@
+In order to customize your controls, enter a key in the appropriate fields below
+and press the 'Confirm' to confirm your choice. To revert to default,
+press the 'Default' button.
+Use the guide below to help you customize your controls.
+
+Special keys: 
+Left Arrow = 'Left'
+Right Arrow = 'Right'
+Up Arrow = 'Up'
+Down Arrow = 'Down'
+Page Up = 'Prior'
+Page Down = 'Next'
+Enter = 'Return'
+Alt = 'Alt_L'
+Control = 'Control_L'
+Shift = 'Shift_L'
+Space = 'space'
+
+All the other keys should be entered as labeled on the keyboard,
+with the alphabet letters in lower case. Not all of the keys are usable,
+so it's best to experiment with different keys.
+
+The default controls are:
+Up Arrow = Move up
+Down Arrow = Move down
+Left Arrow = Move left
+Right Arrow = Move right
+Space = Shoot
+
+The boss key is Esc and the pause key is P. You are not able to change these.
+To use the "Stop Time" Cheat code, press C. You are able to shoot bullets
+while time is stopped.

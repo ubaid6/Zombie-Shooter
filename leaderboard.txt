@@ -1,0 +1,6 @@
+Ahmed,50
+Ubaid,100
+Person,110
+UAhmed,260
+Person1,470
+Ubaid1,770
